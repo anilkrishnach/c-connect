@@ -1,1 +1,1 @@
-Test
+https://github.com/anilkrishnach/c-connect/invitations
